@@ -77,12 +77,12 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = ["https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg",
-                 "https://te.legra.ph/file/c15d01b3e6b40ea141dc9.jpg",
-                 "https://te.legra.ph/file/58b491b39cee854695fa9.jpg"]
+START_IMG_URL = [https://te.legra.ph/file/9477575e0d4bb5226704b.jpg",
+                 "https://te.legra.ph/file/0389af3326d1bcda6a254.jpg",
+                 "https://te.legra.ph/file/a1d5cbecb2303c8c3d7e1.jpg"]
     
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://mallucampaign.in/images/img_1692101295.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/dc4c053c5ec8ab2acd2c9.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
 STATS_IMG_URL = "https://mallucampaign.in/images/img_1694847936.jpg"
