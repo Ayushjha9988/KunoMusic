@@ -77,16 +77,16 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = ["https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg",
-                 "https://te.legra.ph/file/c15d01b3e6b40ea141dc9.jpg",
-                 "https://te.legra.ph/file/58b491b39cee854695fa9.jpg"]
+START_IMG_URL = ["https://telegra.ph/file/5a1b9bc1efae6a70b62c0.jpg",
+                 "https://telegra.ph/file/81ff412673c940f297d9b.jpg",
+                 "https://telegra.ph/file/38d0a70e49a7f1b5fea6a.jpg"]
     
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://te.legra.ph/file/dc4c053c5ec8ab2acd2c9.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/42be75aaebbfb22fde828.jpg"
 STATS_IMG_URL = "https://mallucampaign.in/images/img_1694847936.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/f2f42e1f3a612025b3eaa.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/42be75aaebbfb22fde828.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/f2f42e1f3a612025b3eaa.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/757fb05607b113ab91229.jpg"
 SOUNCLOUD_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
